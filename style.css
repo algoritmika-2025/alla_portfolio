@@ -65,3 +65,7 @@ main a {
 main a:hover {
     transform: rotate(45deg);
 }
+
+li {
+    text-align: center;
+}   
